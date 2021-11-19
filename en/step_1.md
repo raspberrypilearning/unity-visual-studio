@@ -1,59 +1,22 @@
-## Introduction
+## Unity and Visual Studio
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Many different code editors can be used with Unity, but Visual Studio Community Edition is probably the easiest to install and use.
 
-### What you will make
+In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![Unity Hub shown with options selected](images/unity-add-modules.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Unity Hub with a check next to Visual Studio](images/unity-install-vs.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Read the licensing terms and then if you agree, check the box and click the **Install** button.
 
-+ A computer or tablet capable of running Scratch 3
+![license agreement checked for visual studio](images/unity-vs-license.png)
 
-### Software
+Once the install of Visual Studio has completed, open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+In the menu on the left select **External Tools** amd in the drop down menu for **External Script Editor** choose **Visual Studio**
 
-### Downloads
+![Preferences menu with visual studio chosen as the script editor](images/unity-editor-select.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
