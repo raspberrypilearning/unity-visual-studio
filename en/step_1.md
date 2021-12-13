@@ -14,9 +14,9 @@ Read the licensing terms and then if you agree, check the box and click the **In
 
 ![License agreement checked for Visual Studio.](images/unity-vs-license.png)
 
-Once the installation of Visual Studio has completed, open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
+Once the installation of Visual Studio has completed you will need to **restart your computer**, then open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio**.
+In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
 
 ![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
 
