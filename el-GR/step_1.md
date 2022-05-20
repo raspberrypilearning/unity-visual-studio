@@ -1,6 +1,6 @@
-## Unity and Visual Studio
+## Unity και Visual Studio
 
-Many different code editors can be used with Unity, but Visual Studio Community Edition is probably the easiest to install and use.
+Πολλοί διαφορετικοί επεξεργαστές κώδικα μπορούν να χρησιμοποιηθούν με το Unity, αλλά το Visual Studio Community Edition είναι ίσως το πιο εύκολο στην εγκατάσταση και χρήση.
 
 In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
 
