@@ -14,7 +14,7 @@
 
 ![اتّفاقيّة الترخيص محدّدة في Visual Studio.](images/unity-vs-license.png)
 
-بمجرّد اكتمال تثبيت Visual Studio، ستحتاج إلى **إعادة تشغيل حاسوبك**، ثمّ افتح مشروع Unity الخاصّ بك. انقر على **تعديل**، ثمّ اختر **Preferences** من القائمة.
+بمجرّد اكتمال تثبيت Visual Studio، ستحتاج إلى **إعادة تشغيل حاسوبك**، ثمّ افتح مشروع Unity الخاصّ بك. انقر على **Edit**، ثمّ اختر **Preferences** من القائمة.
 
 من القائمة على اليسار، اختر **External Tools** وفي القائمة المسندلة لـ**External Script Editor** اختر **Visual Studio 2019**.
 
