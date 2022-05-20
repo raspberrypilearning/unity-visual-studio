@@ -1,22 +1,22 @@
-## Unity and Visual Studio
+## Unity en Visual Studio
 
-Many different code editors can be used with Unity, but Visual Studio Community Edition is probably the easiest to install and use.
+Ja kan verschillende code-editors gebruiken met Unity, maar Visual Studio Community Edition is het makkelijkst te installeren en te gebruiken.
 
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
+Selecteer in Unity Hub **installs** in het menu aan de linkerkant, en klik vervolgens op het tandwielpictogram rechts van de Unity-versie en selecteer **Add modules**.
 
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
+![Unity Hub wordt weergegeven met opties geselecteerd.](images/unity-add-modules.png)
 
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
+Zorg ervoor dat het selectievakje naast Microsoft Visual Studio Community is ingeschakeld en klik vervolgens op de knop **Continue**.
 
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
+![Unity Hub met een vinkje naast Visual Studio.](images/unity-install-vs.png)
 
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
+Lees de licentievoorwaarden en vink het selectievakje aan als je akkoord gaat en klik op de knop **install**.
 
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
+![Licentieovereenkomst gecontroleerd voor Visual Studio.](images/unity-vs-license.png)
 
-Once the installation of Visual Studio has completed you will need to **restart your computer**, then open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
+Zodra de installatie van Visual Studio is voltooid, moet je de computer **opnieuw opstarten** en vervolgens je Unity-project openen. Klik op **Edit** en kies vervolgens **Preferences** in het menu.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
+Selecteer in het menu aan de linkerkant **External Tools** en kies in het vervolgkeuzemenu voor **External Script Editor** **Visual Studio Community 2019**.
 
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
+![Preferences menu met Visual Studio gekozen als script editor.](images/unity-editor-select.png)
 
