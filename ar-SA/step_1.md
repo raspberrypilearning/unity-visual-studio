@@ -1,22 +1,22 @@
-## Unity and Visual Studio
+## Unity وVisual Studio
 
-Many different code editors can be used with Unity, but Visual Studio Community Edition is probably the easiest to install and use.
+العديد من محرّرات الأكواد يمكن أن تستخدم مع Unity، لكن Visual Studio Community Edition هو على الأرجح الأسهل في التثبيت والاستخدام.
 
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
+في Unity Hub، اختر **Installs** من القائمة على اليسار، ثمّ انقر على أيقونة الترس الموجود على يمين إصدار الـUnity الخاص بك، ثمّ اختر **Add modules**.
 
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
+![Unity Hub مع الخيارات المحدّدة.](images/unity-add-modules.png)
 
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
+تأكّد من أنّ مربّع الاختيار الموجود بجوار Microsoft Visual Studio Community قد تمّ تحديده، ثمّ انقر على زرّ **Continue**.
 
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
+![Unity Hub بجوار Visual Studio.](images/unity-install-vs.png)
 
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
+اقرأ شروط الترخيص، ثمّ إذا وافقت، حدّد على المربّع وانقر على زرّ **Install**.
 
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
+![اتّفاقيّة الترخيص محدّدة في Visual Studio.](images/unity-vs-license.png)
 
-Once the installation of Visual Studio has completed you will need to **restart your computer**, then open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
+بمجرّد اكتمال تثبيت Visual Studio، ستحتاج إلى **إعادة تشغيل حاسوبك**، ثمّ افتح مشروع Unity الخاصّ بك. انقر على **تعديل**، ثمّ اختر **Preferences** من القائمة.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
+من القائمة على اليسار، اختر **External Tools** وفي القائمة المسندلة لـ**External Script Editor** اختر **Visual Studio 2019**.
 
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
+![قائمة التفضيلات مع Visual Studio المختار كمحرر البرنامج النصي.](images/unity-editor-select.png)
 
