@@ -1,6 +1,6 @@
 ## Unity en Visual Studio
 
-Ja kan verschillende code-editors gebruiken met Unity, maar Visual Studio Community Edition is het makkelijkst te installeren en te gebruiken.
+Je kan verschillende code-editors gebruiken met Unity, maar Visual Studio Community Edition is het makkelijkst te installeren en te gebruiken.
 
 Selecteer in Unity Hub **installs** in het menu aan de linkerkant, en klik vervolgens op het tandwielpictogram rechts van de Unity-versie en selecteer **Add modules**.
 
