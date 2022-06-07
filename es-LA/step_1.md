@@ -1,22 +1,22 @@
-## Unity and Visual Studio
+## Unity y Visual Studio
 
-Many different code editors can be used with Unity, but Visual Studio Community Edition is probably the easiest to install and use.
+Se pueden usar muchos editores de texto diferentes con Unity, pero Visual Studio Community Edition es probablemente el más fácil de instalar y usar.
 
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
+En Unity Hub, selecciona **Installs** en el menú de la izquierda y luego haz clic en el ícono de ajustes a la derecha de tu versión de Unity y selecciona **Add modules**.
 
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
+![Se muestra Unity Hub con las opciones seleccionadas.](images/unity-add-modules.png)
 
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
+Asegúrate de que la casilla de verificación junto a Microsoft Visual Studio Community esté marcada y luego haz clic en el botón **Continue**.
 
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
+![Unity Hub con una marca junto a Visual Studio.](images/unity-install-vs.png)
 
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
+Lee los términos de la licencia y luego, si estás de acuerdo, marca la casilla y haz clic en el botón **Install**.
 
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
+![Acuerdo de licencia verificado para Visual Studio.](images/unity-vs-license.png)
 
-Once the installation of Visual Studio has completed you will need to **restart your computer**, then open your Unity project. Click on **Edit** and then choose **Preferences** from the menu.
+Una vez que se haya completado la instalación de Visual Studio, deberás **reiniciar tu computadora**y luego abrir tu proyecto de Unity (Unity project). Haz clic en **Edit** y luego elige **Preferences** del menú.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
+En el menú de la izquierda, selecciona</strong></strong> **External Tools** y en el menú desplegable para **External Script Editor</0> elige **Visual Studio 2019</0>.</p>
 
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
+![Menú de preferencias con Visual Studio elegido como editor de secuencias de comandos.](images/unity-editor-select.png)
 
